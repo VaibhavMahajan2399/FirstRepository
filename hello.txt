@@ -17,6 +17,7 @@ Hello GIT
 15. git clone <project url> [Folder Name]       -> Download a project from the remote repository with Desired Folder Name
 16. git push                    ->  Upload local commits to the remote repository
 17. git pull                    ->  Used to fetch and merge the latest changes from remote repository to local branch
+18. git checkout -b <branch name>       ->  Create a New Branch and switch to it immediately
 
 
 BRANCHING AND MERGING
@@ -50,5 +51,3 @@ DEVELOPER - 1
 DEVELOPER - 2
 1. git clone <project url> OR git clone <project url> [Folder Name]
 2. git pull
-
-Text from CloneFirstRepository
