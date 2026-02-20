@@ -14,6 +14,7 @@ Hello GIT
 12. git branch -M <branch name> ->  Rename the Branch forcefully
 13. git push -u origin <branch name>    ->  Push local master branch to remote respository. Set its copy as an upstream
 14. git clone <project url>     -> Download a project with the entire history from the remote respository
+15. git clone <project url> [Folder Name]       -> Download a project from the remote repository with Desired Folder Name
 
 
 BRANCHING AND MERGING
