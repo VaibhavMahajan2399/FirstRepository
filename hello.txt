@@ -51,5 +51,3 @@ DEVELOPER - 1
 DEVELOPER - 2
 1. git clone <project url> OR git clone <project url> [Folder Name]
 2. git pull
-
-Text from CloneFirstRepository
