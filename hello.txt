@@ -10,3 +10,14 @@ Hello GIT
 8. git branch                   ->  List all branches in respository
 9. git checkout <branch name>   ->  Switching working directory to specific branch
 10. git merge <branch name>     ->  Join specificed branch name into your current branch that your working on.
+
+
+BRANCHING AND MERGING
+
+1. git branch <branch name>     =   Created New branch
+2. git checkout <branch name>   =   Switched to the New branch from master
+3. Create new and modified files
+4. git add .                    =   Add all the files in to the stage on New branch
+5. git commit -m "message"
+6. git checkout master          =   Switched to the master branch from New branch
+7. git merge <branch name>      =   Joined New Branch into the master branch
