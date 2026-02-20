@@ -10,6 +10,9 @@ Hello GIT
 8. git branch                   ->  List all branches in respository
 9. git checkout <branch name>   ->  Switching working directory to specific branch
 10. git merge <branch name>     ->  Join specificed branch name into your current branch that your working on.
+11. git remote add origin <repository url>      ->  Used to connect your local respository to a remote respository
+12. git branch -M <branch name> ->  Rename the Branch forcefully
+13. git push -u origin <branch name>    ->  Push local master branch to remote respository. Set its copy as an upstream
 
 
 BRANCHING AND MERGING
@@ -21,3 +24,12 @@ BRANCHING AND MERGING
 5. git commit -m "message"
 6. git checkout master          =   Switched to the master branch from New branch
 7. git merge <branch name>      =   Joined New Branch into the master branch
+
+
+GITHUB
+
+1. Create an Account on GITHUB
+2. Add new repository on the GITHUB
+3. git remote add origin <repository url>
+4. git branch -M master
+5. git push -u origin master
