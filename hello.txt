@@ -1,1 +1,7 @@
 Hello GIT
+
+1. git status			->	Displays the status of your working directory
+2. git add <file name>	->	Add a file to the staging area for commit
+3. git commit -m ""		->	Save the staged changes into the local repository
+4. git log				->	Shows the commit history of your respository
+5. git diff				->	Shows the differences between the changes in files
