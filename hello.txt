@@ -15,6 +15,8 @@ Hello GIT
 13. git push -u origin <branch name>    ->  Push local master branch to remote respository. Set its copy as an upstream
 14. git clone <project url>     -> Download a project with the entire history from the remote respository
 15. git clone <project url> [Folder Name]       -> Download a project from the remote repository with Desired Folder Name
+16. git push                    ->  Upload local commits to the remote repository
+17. git pull                    ->  Used to fetch and merge the latest changes from remote repository to local branch
 
 
 BRANCHING AND MERGING
@@ -35,3 +37,15 @@ GITHUB
 3. git remote add origin <repository url>
 4. git branch -M master
 5. git push -u origin master
+
+
+PUSH AND PULL BY 2 DEVELOPER
+
+Ist DEVELOPER
+1. Made changes to the code
+2. git add .
+3. git commit -m "message"
+4. git push
+
+IInd DEVELOPER
+1. git pull
