@@ -13,6 +13,7 @@ Hello GIT
 11. git remote add origin <repository url>      ->  Used to connect your local respository to a remote respository
 12. git branch -M <branch name> ->  Rename the Branch forcefully
 13. git push -u origin <branch name>    ->  Push local master branch to remote respository. Set its copy as an upstream
+14. git clone <project url>     -> Download a project with the entire history from the remote respository
 
 
 BRANCHING AND MERGING
