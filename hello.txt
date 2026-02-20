@@ -41,11 +41,12 @@ GITHUB
 
 PUSH AND PULL BY 2 DEVELOPER
 
-Ist DEVELOPER
+DEVELOPER - 1
 1. Made changes to the code
 2. git add .
 3. git commit -m "message"
 4. git push
 
-IInd DEVELOPER
-1. git pull
+DEVELOPER - 2
+1. git clone <project url> OR git clone <project url> [Folder Name]
+2. git pull
