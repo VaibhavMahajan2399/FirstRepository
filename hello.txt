@@ -9,4 +9,4 @@ Hello GIT
 7. git branch <branch name>     ->  Creates a New branch
 8. git branch                   ->  List all branches in respository
 9. git checkout <branch name>   ->  Switching working directory to specific branch
-10. 
+10. git merge <branch name>     ->  Join specificed branch name into your current branch that your working on.
