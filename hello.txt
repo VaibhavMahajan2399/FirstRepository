@@ -49,5 +49,3 @@ Ist DEVELOPER
 
 IInd DEVELOPER
 1. git pull
-
-The Demo text -> To practice push pull
