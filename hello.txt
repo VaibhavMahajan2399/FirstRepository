@@ -1,7 +1,12 @@
 Hello GIT
 
-1. git status			->	Displays the status of your working directory
-2. git add <file name>	->	Add a file to the staging area for commit
-3. git commit -m ""		->	Save the staged changes into the local repository
-4. git log				->	Shows the commit history of your respository
-5. git diff				->	Shows the differences between the changes in files
+1. git status			        ->	Displays the status of your working directory
+2. git add <file name>	        ->	Add a file to the staging area for commit
+3. git add .                    ->  Adds all the file to the staging area for commit
+4. git commit -m ""		        ->	Save the staged changes into the local repository
+5. git log				        ->	Shows the commit history of your respository
+6. git diff				        ->	Shows the differences between the changes in files
+7. git branch <branch name>     ->  Creates a New branch
+8. git branch                   ->  List all branches in respository
+9. git checkout <branch name>   ->  Switching working directory to specific branch
+10. 
